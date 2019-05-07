@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/Raspberry_Pi.png</file>
+    </qresource>
+</RCC>
